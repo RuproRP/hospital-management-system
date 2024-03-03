@@ -28,7 +28,7 @@ Este sistema web permite a los médicos registrar y gestionar la información de
 
 1.1 Clona el repositorio a tu máquina local:
 
-   - git clone https://github.com/tu-usuario/hospital-management-system.git
+   - git clone https://github.com/RuproRP/hospital-management-system.git
    - cd hospital-management-system
 
 1.2 Abre el archivo index.html en tu navegador.
